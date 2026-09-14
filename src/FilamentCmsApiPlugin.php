@@ -7,7 +7,6 @@ use Filament\Panel;
 
 class FilamentCmsApiPlugin implements Plugin
 {
-
     public function getId(): string
     {
         return 'filament-cms-api';
